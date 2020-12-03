@@ -1,3 +1,5 @@
 # Hey there :wave:
 
-![alt text](https://ibb.co/MN5jyKW)
+<img
+src=“https://ibb.co/MN5jyKW"
+/>
